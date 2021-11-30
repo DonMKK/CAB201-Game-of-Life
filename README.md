@@ -10,7 +10,7 @@
 -   Open the project and run. Use different settings in the command line to see different behaviours.
 ---
 ### Completed Project
-- 
+
 ---
 ### Notes about the Project
 - The pattern changes could be made so that they are automated

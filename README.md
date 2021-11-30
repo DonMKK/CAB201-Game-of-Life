@@ -1,20 +1,17 @@
 # CAB201-Game-of-Life
 
-# Project Name
-- This repository contains the code for the project name. This project was done in language. Few Custom Lines that be copied over to the resume.
+- This repository contains the code for the implementation of John Conway's Game of Life. This was written in the Visual Studio in the programming language C#.
 ---
 ### Skills gained at the completion of the project
-- List out skills as per the assessment brief
+- Understading the fundamentals of programming in the small.
+- Understanding and implementing OOP principles in a programming task.
 ---
 ### Installation/Use instructions
--   Describe the architecture and components of modern operating systems.
--   Articulate industry standards and critically apply best practice for developing safety-critical systems.
--   Identify the potential societal and safety impact of systems programming failures.
--   Construct low-level systems programs to carry out authentic systems programming tasks.
+-   Open the project and run. Use different settings in the command line to see different behaviours.
 ---
 ### Completed Project
-- This is where you can put pictures
+- 
 ---
 ### Notes about the Project
-- open source can use/contribute to it
+- The pattern changes could be made so that they are automated
 ---

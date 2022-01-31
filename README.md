@@ -15,3 +15,7 @@
 ### Notes about the Project
 - The pattern changes could be made so that they are automated
 ---
+
+
+https://user-images.githubusercontent.com/71302996/151765281-61693b65-9920-4bb8-b8da-5c59b6b9dacd.mp4
+
